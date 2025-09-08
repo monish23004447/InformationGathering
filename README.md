@@ -1,4 +1,3 @@
-# REGISTER NO: 212223040006
 # Ex-02 InformationGathering
 Information Gathering Techiques
 
