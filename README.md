@@ -73,58 +73,51 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ### Whois
+<img width="1789" height="1083" alt="481462318-0a80035e-4828-4fdd-9ded-bc18e830f666" src="https://github.com/user-attachments/assets/d047e5f1-b21a-449f-90b2-eaed8c9b7727" />
 
-<img width="911" height="738" alt="image" src="https://github.com/user-attachments/assets/5738181c-dce0-458c-8b42-afe9500d3663" />
+
 
 ### Finding Hosting Company :
+<img width="1906" height="1075" alt="image" src="https://github.com/user-attachments/assets/80428ad8-00d4-464a-9492-10ae47d04951" />
 
-
-<img width="1617" height="847" alt="image" src="https://github.com/user-attachments/assets/785c5332-534a-4754-85d0-645e2ecb075e" />
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/e628b7d9-ad28-4209-b7f7-470c30b8f08e" />
 
 
 ### History of the website :
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/3a15893c-6f98-45d8-8b47-1fbc6438bd77" />
 
-
-<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/3fd65f7b-6a24-41dc-b8b5-f1aee477132a" />
-
+<img width="1893" height="1007" alt="image" src="https://github.com/user-attachments/assets/c993c51c-3bc9-4e35-b137-f2bff5717d91" />
 
 ### ping command :
-<img width="1364" height="513" alt="Screenshot 2025-09-12 133845" src="https://github.com/user-attachments/assets/e9f175d4-dc7f-4384-bc9a-1820b067a091" />
-
+<img width="721" height="865" alt="image" src="https://github.com/user-attachments/assets/1e4ccf96-7edd-446d-9d94-413858f4718f" />
 
 
 ### whois :
-
-<img width="760" height="742" alt="image" src="https://github.com/user-attachments/assets/79694cd4-c12c-4d63-b313-913e1506a733" />
-
+<img width="1202" height="965" alt="image" src="https://github.com/user-attachments/assets/6feb01f5-0625-4094-b985-93be41b17dd8" />
 
 ### netcat :
+<img width="874" height="93" alt="image" src="https://github.com/user-attachments/assets/99d1aff0-f354-408a-a26b-6caac6435f9e" />
 
-<img width="665" height="108" alt="image" src="https://github.com/user-attachments/assets/bb93be15-acb6-4473-bc3b-590e015f712c" />
 
 ### nmap :
-
-<img width="637" height="261" alt="image" src="https://github.com/user-attachments/assets/37659d82-c9f5-47c1-a5bc-4baff004e2db" />
+<img width="992" height="231" alt="image" src="https://github.com/user-attachments/assets/1d0e256a-6860-4425-9d3a-00f316f99b72" />
 
 
 ### whatweb :
-
-<img width="745" height="197" alt="image" src="https://github.com/user-attachments/assets/928a6c89-b160-421c-add3-4dd7bd400aa0" />
+<img width="1903" height="135" alt="image" src="https://github.com/user-attachments/assets/cd4e8cf8-0e98-40a9-9577-b3d0b4bf25d0" />
 
 
 ### httprint :
-
-<img width="630" height="208" alt="image" src="https://github.com/user-attachments/assets/25d1d98e-6ccd-4459-957f-c91ac4edd97e" />
+<img width="862" height="809" alt="image" src="https://github.com/user-attachments/assets/1a77b09b-db24-4d81-90e3-098ec62822d2" />
 
 
 ### TCP traceroute :
-
-<img width="747" height="394" alt="image" src="https://github.com/user-attachments/assets/c957bd67-1b5e-42ba-baee-1fa5332cbb47" />
+<img width="766" height="106" alt="image" src="https://github.com/user-attachments/assets/afba32bd-0b71-42e4-b92f-747eae0615e9" />
 
 
 ### UDP traceroute :
+<img width="714" height="88" alt="image" src="https://github.com/user-attachments/assets/aad586a8-bb05-4394-95c4-ed1e35c65f1b" />
 
-<img width="731" height="527" alt="image" src="https://github.com/user-attachments/assets/7478e1f6-9ed0-4a13-8629-fed1faa85635" />
 
 
 ## RESULT:
